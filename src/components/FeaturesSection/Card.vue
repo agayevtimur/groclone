@@ -11,7 +11,7 @@ defineProps({
     <div class="w-[80px] h-[80px] bg-[#F4DFDD] rounded-full flex items-center justify-center">
       <img :src="icon" alt="icon">
     </div>
-    <h4 class="mt-[24px] text-[30px] font-bold">{{ title }}</h4>
+    <h4 class="mt-[24px] text-[30px] sm:text-[22px] md:text-[24px] font-bold whitespace-normal">{{ title }}</h4>
     <p class="mt-[20px] text-[22px]">{{
         paragraph
       }}</p>

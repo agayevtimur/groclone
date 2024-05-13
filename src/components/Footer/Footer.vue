@@ -4,9 +4,9 @@ import Menu from "@/components/Footer/Menu.vue";
 </script>
 
 <template>
-  <footer class="flex flex-col justify-center items-center pt-[180px] pb-[60px] px-[16px]">
+  <footer class="flex flex-col justify-center items-center pt-[180px] sm:pt-[100px] pb-[60px] sm:pb-[24px] px-[16px]">
 
-    <div class="w-full max-w-[1660px] flex items-start gap-[300px] flex-wrap justify-between">
+    <div class="w-full max-w-[1660px] flex items-start gap-[300px] sm:gap-[60px] flex-wrap justify-between">
 
       <div class="max-w-[410px]">
         <span class="text-[56px] text-[#FC4B37] font-bold">Groclone.</span>

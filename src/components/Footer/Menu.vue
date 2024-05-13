@@ -3,7 +3,7 @@ import footerMenu from "@/data/footerMenu.js";
 </script>
 
 <template>
-  <div class="flex flex-1 justify-between">
+  <div class="flex flex-wrap flex-1 justify-between">
     <div v-for="(item, index) in footerMenu" :key="index">
       <span class="text-[20px] font-bold">{{ item.title }}</span>
       <ul class="flex flex-col gap-[12px] text-[18px] mt-[16px]">

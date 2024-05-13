@@ -9,7 +9,7 @@ const features = [
     },
     {
         icon: "/icons/integerations.svg",
-        title: "100+Integerations",
+        title: "100+ Integerations",
         paragraph: "Streamline your workflow with ease.\n" +
             "Choose from over 100+ integrations and\n" +
             "seamlessly connect your tools, for a unified\n" +

@@ -3,13 +3,15 @@ import Analytics from "@/components/AnalyticsSection/Analytics.vue";
 </script>
 
 <template>
-  <section class="py-[300px] flex justify-center items-center px-[16px]">
+  <section class="py-[300px] sm:py-[130px] flex justify-center items-center px-[16px]">
 
     <div class="max-w-[1660px] flex flex-col items-center mx-auto">
-      <h2 class="text-[72px] font-bold text-center">
+      <h2 class="text-[72px] sm:text-[30px] font-bold text-center">
         All-in-one anaytics tool
       </h2>
-      <p class="text-[22px] leading-normal mt-[40px] text-center max-w-[817px] font-normal">"Maximize your
+      <p class=" whitespace-normal max-w-[100%] text-[22px] sm:text-[14px] leading-normal mt-[40px] sm:mt-[20px] text-center max-w-[817px] font-normal">
+        "Maximize
+        your
         decision-making
         capabilities with our
         powerful
