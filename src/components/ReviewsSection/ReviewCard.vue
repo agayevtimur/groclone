@@ -8,7 +8,7 @@ const reviewsArray = reviews
 </script>
 
 <template>
-  <div class="max-w-[600px] bg-[#222629] rounded-[20px] p-[40px] mx-auto relative hover:shadow-2xl transition">
+  <div class="max-w-[600px] bg-[#222629] rounded-[20px] p-[40px] sm:p-[24px] mx-auto hover:shadow-2xl transition">
 
     <p class="text-[22px] sm:text-[14px] text-[#B8BCBF] min-h-[120px] sm:min-h-[80px]">
       {{

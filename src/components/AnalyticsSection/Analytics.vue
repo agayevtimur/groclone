@@ -23,7 +23,7 @@ defineProps({
       <h2 class="text-[72px] sm:text-[30px] font-bold mt-[40px] sm:mt-[16px] leading-tight max-w-[100%]">
         {{ title }}
       </h2>
-      <p class="text-[22px] leading-normal mt-[40px] sm:mt-[24px] font-normal">{{
+      <p class="text-[22px] sm:text-[14px] leading-normal mt-[40px] sm:mt-[24px] font-normal">{{
           paragraph
         }}</p>
       <ul class="mt-[40px] sm:mt-[18px]  flex flex-col gap-[12px]">

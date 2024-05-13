@@ -9,8 +9,8 @@ import Menu from "@/components/Footer/Menu.vue";
     <div class="w-full max-w-[1660px] flex items-start gap-[300px] sm:gap-[60px] flex-wrap justify-between">
 
       <div class="max-w-[410px]">
-        <span class="text-[56px] text-[#FC4B37] font-bold">Groclone.</span>
-        <p class="text-[22px] leading-normal mt-[30px]">"Maximize your decision-making
+        <span class="text-[56px] sm:text-[24px] text-[#FC4B37] font-bold">Groclone.</span>
+        <p class="text-[22px] sm:text-[14px] leading-normal mt-[30px]">"Maximize your decision-making
           capabilities with our powerful analytical
           tools. Harness the power of your data
           to drive growth and success."</p>

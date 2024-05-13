@@ -12,7 +12,7 @@ defineProps({
       <img :src="icon" alt="icon">
     </div>
     <h4 class="mt-[24px] text-[30px] sm:text-[22px] md:text-[24px] font-bold whitespace-normal">{{ title }}</h4>
-    <p class="mt-[20px] text-[22px]">{{
+    <p class="mt-[20px] text-[22px] sm:text-[14px]">{{
         paragraph
       }}</p>
   </div>
