@@ -22,8 +22,7 @@ import features from "@/data/features.js";
       <div class="flex gap-[22px] sm:gap-[8px] justify-center mt-[80px] sm:mt-[50px]">
         <button
             class="bg-[#FC4B37] px-[34px] sm:px-[20px] py-[18px] rounded-full text-[18px] sm:text-[14px] hover:shadow-2xl transition text-white font-bold hover:bg-orange-500 transition active:bg-orange-600">
-          Get
-          started
+          Get started
         </button>
         <button
             class="px-[34px] sm:px-[20px] py-[18px] text-black  border-black border-[1px]  rounded-full text-[18px] sm:text-[14px] font-bold hover:bg-slate-100 hover:shadow-2xl transition  hover:text-black active:bg-slate-200 transition">

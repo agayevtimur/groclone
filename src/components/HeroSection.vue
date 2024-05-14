@@ -4,8 +4,6 @@
 
 <template>
   <section class="bg-[#FC4B37] px-[16px] pb-[140px] sm:pb-12 w-full">
-
-
     <header class="max-w-[1600px] flex justify-between items-center mx-auto py-[20px]">
       <span class="text-[30px] font-bold text-white cursor-pointer">Groclone.</span>
       <ul class="sm:hidden md:hidden lg:hidden xl:hidden flex gap-[38px] text-white text-[16px]">
@@ -22,8 +20,6 @@
         started
       </button>
     </header>
-
-
     <div class="mt-[110px] sm:mt-[50px] mx-auto max-w-[1160px] flex flex-col items-center">
       <h1 class=" text-[100px] xl:text-[80px] lg:text-[60px] md:text-[44px] sm:text-[44px] font-bold leading-none text-white text-center mb-[50px]">
         Presenting the
@@ -41,11 +37,8 @@
           started
         </button>
       </div>
-
       <img class="mt-[80px]" src="/laptop.png" alt="Laptop Image">
     </div>
-
-
   </section>
 </template>
 
